@@ -1,3 +1,4 @@
 Testando Git
 Nova linha
 outra linha
+outra branch
